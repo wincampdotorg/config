@@ -6,7 +6,7 @@
   "new_version_name": "26.9.1",
   "submit_version_code": 15,
   "installFromStore_enable": false,
-  "is_maintenance": false,
+  "is_maintenance": true,
   "maintenance_button": "OK",
   "maintenance_link": "https://trakteer.id/nonton-anime/tip",
   "maintenance_text": "Halo Guys! Mohon maaf kami sedang melakukan Perawatan Server!",
