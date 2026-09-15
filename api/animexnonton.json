@@ -11,6 +11,7 @@
   "maintenance_link": "https://trakteer.id/nonton-anime/tip",
   "maintenance_text": "Halo Guys! Mohon maaf kami sedang melakukan Perawatan Server!",
   "PiracyChecker": false,
+  "show_info": false,
   "update_info": "Halo Guys! Silahkan Update Anime X Nonton ke versi terbaru ya",
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29",
   "support_fhd": true,
@@ -20,5 +21,6 @@
   "levelplay_appkey": "23674e8c5",
   "levelplay_banner": "fq0axjsdi7unp159",
   "levelplay_interstitial": "hmi65o647pbce50m",
-  "unity_ads_game_id": "6104234"
+  "unity_ads_game_id": "6104234",
+  "dummy_url": "https://vjs.zencdn.net/v/oceans.mp4"
 }
