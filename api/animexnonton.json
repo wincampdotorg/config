@@ -17,7 +17,7 @@
   "support_fhd": true,
   "ads_period": 15000,
   "ads_type": 1,
-  "category_inter_enable": false,
+  "category_inter_enable": true,
   "levelplay_appkey": "23674e8c5",
   "levelplay_banner": "fq0axjsdi7unp159",
   "levelplay_interstitial": "hmi65o647pbce50m",
