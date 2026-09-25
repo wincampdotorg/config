@@ -25,6 +25,7 @@
   "levelplay_reward": "fodvmyobrq4rmtde",
   "levelplay_reward_max_poin": 10,
   "set_consent": true,
+  "set_coppa": false,
   "unity_ads_game_id": "6186175",
   "dummy_url": "https://vjs.zencdn.net/v/oceans.mp4"
 }
