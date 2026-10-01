@@ -33,5 +33,6 @@
   "view_count_enabled": true,
   "view_count_interval": 15,
   "ads_cooldown_sec": 180,
-  "ads_daily_cap": 12
+  "ads_daily_cap": 12,
+  "rate_prompt_every": 10
 }
