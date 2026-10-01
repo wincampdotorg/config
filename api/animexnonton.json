@@ -31,7 +31,7 @@
   "show_reward_fab": false,
   "show_total_poin": false,
   "view_count_enabled": true,
-  "view_count_interval": 10,
+  "view_count_interval": 15,
   "ads_cooldown_sec": 180,
   "ads_daily_cap": 12
 }
