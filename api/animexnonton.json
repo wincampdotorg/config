@@ -28,7 +28,7 @@
   "set_coppa": false,
   "unity_ads_game_id": "6186175",
   "dummy_url": "https://vjs.zencdn.net/v/oceans.mp4",
-  "show_poin": true,
+  "show_poin": false,
   "view_count_enabled": true,
   "view_count_interval": 10,
   "ads_cooldown_sec": 120,
