@@ -30,7 +30,7 @@
   "dummy_url": "https://vjs.zencdn.net/v/oceans.mp4",
   "show_poin": true,
   "view_count_enabled": true,
-  "view_count_interval": 3,
+  "view_count_interval": 5,
   "ads_cooldown_sec": 120,
   "ads_daily_cap": 0,
   "rate_prompt_every": 5,
