@@ -9,5 +9,12 @@
   "submit_version_code": "4",
   "ads_type": 1,
   "installFromStore": false,
-  "secure_video_url": "5uTNEy7+272xhc/T7hUvNBbnnIMmp3Me0NpJvl97V2XcmBTzY2PdyZ159PIvqHr/FrfJ+Xgw3Vv5RyBTwm6QUkz8aq/SbnycmfSHeDo1OxHbYUbaDVgQewmr1txZR6DVA3sAlsCsURyppg8xWT5aBbtMkHh2kvPWZlcnxz9G"
+  "secure_video_url": "5uTNEy7+272xhc/T7hUvNBbnnIMmp3Me0NpJvl97V2XcmBTzY2PdyZ159PIvqHr/FrfJ+Xgw3Vv5RyBTwm6QUkz8aq/SbnycmfSHeDo1OxHbYUbaDVgQewmr1txZR6DVA3sAlsCsURyppg8xWT5aBbtMkHh2kvPWZlcnxz9G",
+  "ads_banner_enable": true,
+  "ads_banner_player_enable": true,
+  "ads_interstitial_enable": true,
+  "ads_interstitial_interval": 1,
+  "ads_interstitial_cooldown": 0,
+  "root_check_enable": true,
+  "max_download": 50
 }
