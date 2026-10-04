@@ -16,5 +16,6 @@
   "ads_interstitial_interval": 1,
   "ads_interstitial_cooldown": 0,
   "root_check_enable": true,
-  "max_download": 50
+  "max_download": 50,
+  "allow_download": true
 }
