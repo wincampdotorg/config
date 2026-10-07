@@ -15,7 +15,7 @@
   "ads_interstitial_enable": true,
   "ads_interstitial_interval": 3,
   "ads_interstitial_cooldown": 180,
-  "ads_native_enable": true,
+  "ads_native_enable": false,
   "ads_native_interval": 8,
   "root_check_enable": false,
   "max_download": 50,
