@@ -21,5 +21,6 @@
   "max_download": 50,
   "allow_download": true,
   "chat_enable": true,
-  "chat_poll_seconds": 1
+  "chat_poll_seconds": 1,
+  "is_chat_readonly": true
 }
