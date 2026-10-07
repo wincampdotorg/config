@@ -20,8 +20,8 @@
   "root_check_enable": false,
   "max_download": 50,
   "allow_download": true,
-  "chat_enable": false,
+  "chat_enable": true,
   "chat_poll_seconds": 3,
-  "is_chat_readonly": false,
+  "is_chat_readonly": true,
   "dummy_url": "https://vjs.zencdn.net/v/oceans.mp4"
 }
