@@ -19,5 +19,7 @@
   "ads_native_interval": 8,
   "root_check_enable": false,
   "max_download": 50,
-  "allow_download": true
+  "allow_download": true,
+  "chat_enable": true,                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+  "chat_poll_seconds": 3
 }
