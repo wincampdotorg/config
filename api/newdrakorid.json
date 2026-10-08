@@ -22,6 +22,6 @@
   "allow_download": true,
   "chat_enable": true,
   "chat_poll_seconds": 10,
-  "is_chat_readonly": true,
+  "is_chat_readonly": false,
   "dummy_url": "https://vjs.zencdn.net/v/oceans.mp4"
 }
