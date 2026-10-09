@@ -35,7 +35,7 @@
   "view_count_interval": 10,
   "ads_cooldown_sec": 180,
   "ads_daily_cap": 20,
-  "rate_prompt_every": 0,
+  "rate_prompt_every": 15,
   "download_limit": 50,
   "custom_dns_allow": "dns.example.com",
   "api_pins": "ScW+1DpPOiJTXTnZnwG+sCpJ6vf7v5SO89fAoZhBDlvLM9CJCcGO5Q8oG4zeNm19gEncDak4N0dBeEeAqC92w3lQJXHlCd6RwTDAQAwpJ7n7SgsF9jyFqheZVIEpcs36Nseu5Gex5bW29nRR7pqvFhsA4y1zRLMFzzRwQfcjlrGO2PbalHvgtpw4GEBwZ63gsWPb0qknCIvjXR12owFnBS7xFhp5h9TobMkcbFssPl5vx3Tn4M1X6NDERb8Jtx4xCj7SZyF0mFAMUclOSwLx8UXAj9JKTWvf5wpXrS/9XYLTKcQX5ZmoUcsO1My66vgq0WtIlMexS/+JpNCZmgSayOIwPp1UvlmXA4bh6Vpnq2avGj3442y2d8m9AXI/gzMzeoIpj5q9kj2qin9cG8GcQEC6Qie3zuVeO55Lq9tVZcpuNjRq9WiOGOLO1Aka3UBcsRHC0hN4UXc0PGX02AdVHOeVS8gmpcZYMqca2Ue23nowKwGq77CVvqUVcdjVnX9TwceWIVdXBw=="
