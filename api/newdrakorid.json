@@ -13,15 +13,15 @@
   "ads_banner_enable": true,
   "ads_banner_player_enable": true,
   "ads_interstitial_enable": true,
-  "ads_interstitial_interval": 3,
-  "ads_interstitial_cooldown": 180,
+  "ads_interstitial_interval": 2,
+  "ads_interstitial_cooldown": 120,
   "ads_native_enable": true,
   "ads_native_interval": 6,
   "root_check_enable": false,
   "max_download": 50,
   "allow_download": true,
   "chat_enable": true,
-  "chat_poll_seconds": 5,
+  "chat_poll_seconds": 3,
   "is_chat_readonly": false,
   "dummy_url": "https://vjs.zencdn.net/v/oceans.mp4"
 }
