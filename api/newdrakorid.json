@@ -16,6 +16,9 @@
   "ads_interstitial_enable": true,
   "ads_interstitial_interval": 2,
   "ads_interstitial_cooldown": 90,
+  "ads_daily_cap": 30,
+  "ads_new_user_free_minutes": 3,
+  "ad_break_minutes": 30,
   "ad_break_after": 2,
   "ad_break_offers_per_day": 3,
   "ad_break_offer_gap_minutes": 30,
@@ -31,5 +34,6 @@
   "dns_check_enable" :true,
   "dns_blocklist": "adguard,kahfguard,puredns,ublockdns,oszx,hagezi",
   "dns_probe_enable": true,
-  "dns_probe_hosts": ""
+  "dns_probe_hosts": "",
+  "appmetrica_api_key": ""
 }
