@@ -36,7 +36,7 @@
   "dns_probe_enable": true,
   "dns_probe_hosts": "",
   "appmetrica_api_key": "",
-  "allowed_signatures": "SHA256-APP-SIGNING-PLAY,6E:73:07:E6:63:CC:B4:DF:41:77:E4:EE:D9:D2:05:F1:17:CB:60:4E:09:2A:EA:77:35:81:90:9C:61:A0:A3:8F",
+  "allowed_signatures": "",
   "integrity_enable": true,
   "integrity_project_number": 709924233827
 }
