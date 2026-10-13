@@ -26,5 +26,7 @@
   "chat_enable": true,
   "chat_poll_seconds": 5,
   "is_chat_readonly": false,
-  "dummy_url": "https://vjs.zencdn.net/v/oceans.mp4"
+  "dummy_url": "https://vjs.zencdn.net/v/oceans.mp4",
+  "dns_check_enable" :true,
+  "dns_blocklist": "adguard,kahfguard,puredns,ublockdns,oszx,hagezi"
 }
