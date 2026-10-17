@@ -37,7 +37,7 @@
   "dns_probe_enable": true,
   "dns_probe_hosts": "",
   "appmetrica_api_key": "",
-  "allowed_signatures": "48:BB:98:9B:07:31:F3:EF:41:6D:0F:9A:A0:49:70:F8:EB:D5:4E:69:A9:D8:FD:ED:78:85:47:B9:B1:A8:9D:3F,6E:73:07:E6:63:CC:B4:DF:41:77:E4:EE:D9:D2:05:F1:17:CB:60:4E:09:2A:EA:77:35:81:90:9C:61:A0:A3:8F",
+  "allowed_signatures": "",
   "integrity_enable": true,
   "integrity_project_number": 709924233827
 }
